@@ -35,6 +35,7 @@ Welcome to Classroom Clone, a Google Classroom-inspired platform that allows tea
 ### Usage
 
 #### Student View
+
 ![Screenshot (18)](https://github.com/developertahaa/Google-Classroom-Clone-Using-PHP-and-HTML/assets/75298003/ff7c808f-006c-4dbd-bd55-b9e72c3b1698)
 
 **Login:**
