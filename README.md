@@ -3,32 +3,30 @@
 Welcome to Classroom Clone, a Google Classroom-inspired platform that allows teachers to create classes, and students to join and participate in those classes. This documentation provides essential information about the project structure, features, and how to set up and use the application.
 
 ## Installation
-```bash
-https://github.com/developertahaa/Google-Classroom-Clone-Using-PHP-and-HTML.git
-cd classroom-clone
-npm install
-```
+    https://github.com/developertahaa/Google-Classroom-Clone-Using-PHP-and-HTML.git
+    cd classroom-clone
+    npm install
 
-##Features
-###Student View
+## Features
+### Student View
 - Join classes using unique class codes.
 - View enrolled courses.
 - Access class details and assignments.
 
-###Teacher View
+### Teacher View
 Create new classes.
 - Manage class materials and assignments.
 - View and manage enrolled students.
 
-###Authentication
+### Authentication
 - Secure login for students and teachers.
 - Differentiate between student and teacher roles.
 
-###Archived Classes
+### Archived Classes
 Move classes to an archived section.
 
-##Usage
-###Student View
+## Usage
+### Student View
 - **Login**:
 Access the platform using your student credentials.
 
@@ -38,7 +36,7 @@ Use the class code provided by your teacher to join a class.
 - **Archived Classes:**
 View and access previously archived classes.
 
-###Teacher View
+### Teacher View
 - **Login:**
 Access the platform using your teacher credentials.
 
@@ -51,5 +49,5 @@ Access class settings, add assignments, and manage enrolled students.
 - **Archived Classes:**
 Move classes to the archived section if needed.
 
-##Contributing
+## Contributing
 We welcome contributions from the community. Please follow our contribution guidelines.
