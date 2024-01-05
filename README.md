@@ -2,6 +2,12 @@
 
 Welcome to Classroom Clone, a Google Classroom-inspired platform that allows teachers to create classes, and students to join and participate in those classes. This documentation provides essential information about the project structure, features, and how to set up and use the application.
 
+## Installation```bash
+git clone https://github.com/developertahaa/classroom-clone.git
+cd classroom-clone
+npm install
+
+
 ## Features
 
 ### Student View
@@ -24,16 +30,8 @@ Welcome to Classroom Clone, a Google Classroom-inspired platform that allows tea
 ### Archived Classes
 
 - Move classes to an archived section.
-## Installation
-
-```bash
-git clone https://github.com/developertahaa/classroom-clone.git
-cd classroom-clone
-npm install
-
 
 ## Usage
-
 ### Student View
 
 **Login:**
