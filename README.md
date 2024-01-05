@@ -24,13 +24,12 @@ Welcome to Classroom Clone, a Google Classroom-inspired platform that allows tea
 ### Archived Classes
 
 - Move classes to an archived section.
-
 ## Installation
 
 ```bash
-  git clone https://github.com/developertahaa/classroom-clone.git
-  cd classroom-clone
-  npm install
+git clone https://github.com/developertahaa/classroom-clone.git
+cd classroom-clone
+npm install
 
 
 ## Usage
