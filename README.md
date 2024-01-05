@@ -30,7 +30,7 @@ Welcome to Classroom Clone, a Google Classroom-inspired platform that allows tea
 ```bash
   git clone https://github.com/developertahaa/classroom-clone.git
   cd classroom-clone
-  npm install```
+  npm install
 
 
 ## Usage
